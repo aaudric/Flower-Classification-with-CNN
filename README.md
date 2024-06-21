@@ -1,10 +1,10 @@
-# Flower Classification with CNN
+# 🌹🌻 Flower Classification with CNN 🌼🌺
 
 This project uses Convolutional Neural Networks (CNN) to classify images of flowers into different categories. The dataset consists of flower images categorized into five classes. The model is trained using TensorFlow and Keras.
 
 ## Table of Contents
 
-- [Flower Classification with CNN](#flower-classification-with-cnn)
+- [🌹🌻 Flower Classification with CNN 🌼🌺](#-flower-classification-with-cnn-)
   - [Table of Contents](#table-of-contents)
   - [Project Description](#project-description)
   - [Dataset](#dataset)
